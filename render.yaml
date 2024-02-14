@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sugar-conan
+    name: daiko-n
     env: python
     region: Oregon
     plan: free
