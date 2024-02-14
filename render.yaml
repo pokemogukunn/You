@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: daiko-n
+    name: babu-
     env: python
     region: Oregon
     plan: free
